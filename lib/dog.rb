@@ -13,4 +13,6 @@ class Dog
     @@all.each {|pup| puts pup.name}
   end
 
+  def clear_all
+    
 end
